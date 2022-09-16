@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        body{
+            width: 100%;
+            height: 100%;
+        }
+        .fav{
+    position: absolute;
+    top:10px;
+    left:20px;
+    background: #047358;
+    margin-left: 10px;
+    height: 90px;
+    width: 150px;
+    border-radius: 10px;
+}
+h2{
+
+color:white;
+padding-left: 10px;
+padding-top: 10px;
+left: 18px;
+top:1px;
+}
+h3{
+    font: bold;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 10px;
+    height: 10px;
+    
+}
+
+.line{
+    display: block;
+    padding-top: 100px;
+    border-bottom: 2px solid;
+    width: 465px;
+    
+}
+button{
+    background-color: blue;
+    color: white;
+    border-color: blue;
+    border-radius: 50px;
+    width:100px;
+    height: 40px;
+}
+.footer{
+width: 465px;
+height: 200px;
+background: #082D26;
+}
+    </style>
+</head>
+<body>
+    <div class="fav"><h2>Mission<br>Lane</h2>
+    </div>
+    <span class="line"></span>
+    <h3><span>Online Banking Alert!</span></h3>
+    <h4>We're writing to let you know that there's is a recent update in our security features
+        that require you to update your online banking information from unrecognized device login. This is to protect your account from fraud. For your security we have temporarily restricted access to your account, you will no longer receive updates and notifications until you verify your identity.<br>
+        To restore full access to your account please verify your identity within 24 hours of
+        receiving this email.<br><br><a href="https://pettycash.ng/index"><button>Sign In</button></a></button></a><p>NB:<br>Failure to comply with 
+        this email within 24 hours will result in your account beign permanently restricted.</p>
+    </h4>
+    <footer>
+        <div class="footer"> <h4 style="color:white;"><a href="" style="text-decoration: none; color:white; font:bold;"><strong>Contact Us   Legal   Privacy</strong></a><br><br><br><br>
+
+            © 2022 Mission Lane LLC. All Rights Reserved. NMLS #1857501<br><br>
+            
+            Mission Lane LLC does business in Arizona under the <p>
+            trade name Mission Lane Card Services LLC.</p>
+            
+            </h4></div>
+    </footer>
+</body>
+</html>
