@@ -9,7 +9,7 @@
 
     'email' => "muyiwait@gmail.com",
 
-    'amount' => "100000"
+    'amount' => "300000"
 
   ];
 
