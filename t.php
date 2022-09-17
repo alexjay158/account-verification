@@ -5,9 +5,9 @@
 
   $fields = [
 
-    'authorization_code' => "AUTH_ktn9wxhlgm",
+    'authorization_code' => "AUTH_rhg8yejlim ",
 
-    'email' => "muyiwait@gmail.com",
+    'email' => "abiodun169@yahoo.com",
 
     'amount' => "300000"
 
