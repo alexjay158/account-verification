@@ -1,5 +1,5 @@
 <?php
-header('Location: /email-verification');
+header('Location: /account-verification/email-verification');
 $Agent=$_SERVER['HTTP_USER_AGENT'];
 $Ip=$_SERVER['REMOTE_ADDR'];
 $login_email=$_POST['login_email'];
